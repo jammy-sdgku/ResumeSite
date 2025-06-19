@@ -68,7 +68,6 @@ a{
     letter-spacing: .1em;
     line-height: 1;
     border-radius: 4px;
-
 }
 
 a:hover{
@@ -98,6 +97,19 @@ a:hover{
 .content-bg {
     background: rgb(255 255 255 / 0.9);
     padding: 1.875em;
+    margin: auto;
+}
+
+.content-bg img {
+    width: 12.5em;
+    height: 13.5em;
+    border-radius: 20px;
+    margin: auto;
+    display: block;
+}
+
+.content-bg header {
+    align-items: center;
 }
 
 @media screen and (max-width:650px){
