@@ -108,7 +108,12 @@ a:hover{
     display: block;
 }
 
-.content-bg header {
+.p-top {
+    margin: auto;
+    text-align: center;
+}
+
+.content-bg header{
     align-items: center;
 }
 
